@@ -7,4 +7,4 @@ Point 2 => https://immense-temple-93460.herokuapp.com/product/getProduct/5e2dc78
 In point 1 = Lists all products showing some of their properties
 
 
-In point 2 = Lists all the properties of a specific product
+In point 2 = Lists all the properties of a specific product. example: https://immense-temple-93460.herokuapp.com/product/getProduct/:Id (using the Id of the product)
